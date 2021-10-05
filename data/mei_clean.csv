@@ -1,0 +1,507 @@
+state,city,standard_score,flex_score,total_mei
+AL,auburn,21,2,23
+AL,birmingham,94,8,100
+AL,florence,0,0,0
+AL,hoover,12,0,12
+AL,huntsville,20,0,20
+AL,mobile,17,2,19
+AL,montgomery,36,4,40
+AL,tuscaloosa,22,2,24
+AK,anchorage,88,4,92
+AK,fairbanks,32,2,34
+AK,homer,5,2,7
+AK,juneau,84,4,88
+AK,ketchikan,38,0,38
+AK,sitka,36,0,36
+AK,wasilla,12,0,12
+AZ,avondale,37,1,38
+AZ,chandler,66,0,66
+AZ,flagstaff,81,7,88
+AZ,gilbert,68,7,75
+AZ,glendale,70,2,72
+AZ,mesa,64,0,64
+AZ,peoria,46,9,55
+AZ,phoenix,98,11,100
+AZ,scottsdale,69,11,80
+AZ,tempe,100,9,100
+AZ,tucson,93,11,100
+AR,conway,16,0,16
+AR,eureka springs,60,3,63
+AR,fayetteville,39,5,44
+AR,fort smith,19,2,21
+AR,jonesboro,0,0,0
+AR,little rock,61,5,66
+AR,north little rock,15,0,15
+AR,springdale,19,0,19
+CA,anaheim,78,9,87
+CA,bakersfield,54,4,58
+CA,berkeley,93,13,100
+CA,brisbane,49,4,53
+CA,cathedral city,81,19,100
+CA,chula vista,89,11,100
+CA,concord,69,12,81
+CA,corona,55,4,59
+CA,elk grove,78,4,82
+CA,escondido,55,5,60
+CA,fontana,55,4,59
+CA,fremont,81,9,90
+CA,fresno,50,5,55
+CA,fullerton,73,6,79
+CA,garden grove,49,4,53
+CA,glendale,65,5,70
+CA,guerneville (sonoma county),81,13,94
+CA,hayward,75,4,79
+CA,huntington beach,54,4,59
+CA,irvine,84,9,93
+CA,lancaster,73,4,77
+CA,long beach,100,11,100
+CA,los angeles,93,15,100
+CA,modesto,55,5,60
+CA,moreno valley,56,4,60
+CA,oakland,94,15,100
+CA,oceanside,90,14,100
+CA,ontario,48,4,52
+CA,orange,67,4,71
+CA,oxnard,54,4,58
+CA,palm desert,83,11,94
+CA,palm springs,98,19,100
+CA,palmdale,71,5,76
+CA,pasadena,84,9,93
+CA,pomona,68,4,72
+CA,rancho cucamonga,62,6,68
+CA,rancho mirage,87,16,100
+CA,richmond,90,4,94
+CA,riverside,94,7,100
+CA,sacramento,91,17,100
+CA,salinas,60,4,64
+CA,san bernardino,49,4,53
+CA,san diego,100,11,100
+CA,san francisco,100,17,100
+CA,san jose,93,4,97
+CA,santa ana,57,4,61
+CA,santa clarita,70,4,74
+CA,santa monica,98,7,100
+CA,santa rosa,71,7,78
+CA,signal hill,80,16,96
+CA,stockton,67,4,71
+CA,sunnyvale,80,9,89
+CA,thousand oaks,63,5,68
+CA,torrance,54,4,58
+CA,vallejo,77,4,81
+CA,visalia,58,4,62
+CA,west hollywood,98,17,100
+CO,aspen,57,4,61
+CO,aurora,69,5,74
+CO,boulder,96,14,100
+CO,colorado springs,58,3,61
+CO,denver,98,9,100
+CO,fort collins,88,7,95
+CO,lakewood,56,2,58
+CO,littleton,49,2,51
+CT,bridgeport,40,2,42
+CT,fairfield,44,2,46
+CT,hartford,89,10,99
+CT,new britain,65,6,71
+CT,new haven,79,4,83
+CT,norwalk,92,14,100
+CT,stamford,94,6,100
+CT,storrs (mansfield),55,6,61
+CT,waterbury,63,4,67
+DE,bethany beach,35,2,37
+DE,dover,52,2,54
+DE,middletown,28,2,30
+DE,milford,67,2,69
+DE,newark,54,2,56
+DE,rehoboth beach,54,4,58
+DE,smyrna,40,3,43
+DE,wilmington,83,5,88
+FL,cape coral,48,1,49
+FL,coral gables,90,1,91
+FL,daytona beach,30,0,30
+FL,fort lauderdale,100,10,100
+FL,gainesville,88,7,95
+FL,hialeah,40,0,40
+FL,hollywood,80,3,83
+FL,jacksonville,81,0,81
+FL,miami,70,5,75
+FL,miami shores,81,1,82
+FL,oakland park,90,9,99
+FL,orlando,98,17,100
+FL,pembroke pines,70,3,73
+FL,port saint lucie,53,0,53
+FL,st. petersburg,97,14,100
+FL,tallahassee,92,14,100
+FL,tampa,98,16,100
+FL,wilton manors,96,18,100
+GA,athens-clarke county,24,5,29
+GA,atlanta,100,9,100
+GA,augusta-richmond county,28,0,28
+GA,avondale estates,18,0,18
+GA,columbus,61,2,63
+GA,decatur,86,0,86
+GA,north druid hills (dekalb county),7,0,7
+GA,roswell,5,0,5
+GA,sandy springs,21,0,21
+GA,savannah,75,3,78
+HI,hawaii county,50,2,52
+HI,honolulu county,58,2,60
+HI,kalawao county,33,2,35
+HI,kauai county,30,2,32
+HI,maui county,66,4,70
+ID,boise,75,0,75
+ID,coeur d’alene,66,0,66
+ID,idaho falls,58,0,58
+ID,meridian,50,0,50
+ID,moscow,68,1,69
+ID,nampa,18,0,18
+ID,pocatello,71,0,71
+IL,aurora,77,6,83
+IL,carbondale,45,4,49
+IL,champaign,75,9,84
+IL,chicago,93,11,100
+IL,joliet,61,4,65
+IL,naperville,66,4,70
+IL,peoria,68,6,74
+IL,rockford,77,4,81
+IL,springfield,63,5,68
+IN,bloomington,100,6,100
+IN,evansville,80,2,82
+IN,fort wayne,40,0,40
+IN,hammond,71,0,71
+IN,indianapolis,86,3,89
+IN,muncie,69,0,69
+IN,south bend,75,0,75
+IN,terre haute,90,0,90
+IN,west lafayette,85,0,85
+IA,ames,82,6,88
+IA,cedar rapids,100,2,100
+IA,davenport,80,4,84
+IA,des moines,88,0,88
+IA,dubuque,95,5,100
+IA,iowa city,100,12,100
+IA,sioux city,55,2,57
+IA,waterloo,59,0,59
+IA,west des moines,94,5,99
+ME,auburn,34,4,38
+ME,augusta,46,6,52
+ME,bangor,40,7,47
+ME,brunswick,33,6,39
+ME,lewiston,52,4,56
+ME,orono,26,6,32
+ME,portland,89,5,94
+ME,scarborough,54,7,61
+ME,south portland,54,4,58
+MD,annapolis,80,4,84
+MD,baltimore,94,6,100
+MD,bowie,56,4,60
+MD,college park,92,9,100
+MD,columbia (howard county),90,12,100
+MD,frederick,96,4,100
+MD,gaithersburg,87,6,93
+MD,hagerstown,66,2,68
+MD,rockville,100,10,100
+MD,towson (baltimore county),82,4,86
+MA,amherst,71,7,78
+MA,arlington,92,8,100
+MA,boston,100,8,100
+MA,cambridge,100,14,100
+MA,lowell,48,2,50
+MA,northampton,94,10,100
+MA,provincetown,94,8,100
+MA,salem,100,2,100
+MA,springfield,68,6,74
+MA,worcester,99,4,100
+MI,ann arbor,100,5,100
+MI,detroit,95,11,100
+MI,east lansing,98,6,100
+MI,ferndale,93,12,100
+MI,grand rapids,90,2,92
+MI,kalamazoo,78,2,80
+MT,helena,58,0,58
+MT,kalispell,18,0,18
+MT,missoula,93,6,99
+MT,whitefish,57,1,58
+NE,bellevue,46,0,46
+NE,fremont,20,0,20
+NE,grand island,47,0,47
+NE,kearney,32,0,32
+NE,lincoln,77,6,83
+NE,north platte,32,0,32
+NE,omaha,71,0,71
+NV,carson city,48,2,50
+NV,elko,48,2,50
+NV,enterprise (clark county),91,10,100
+NV,henderson,85,9,94
+NV,las vegas,87,15,100
+NV,mesquite,29,2,31
+NV,north las vegas,54,2,56
+NV,paradise (clark county),91,10,100
+NV,reno,96,16,100
+NV,sparks,42,2,44
+NH,concord,71,2,73
+NH,derry,56,4,60
+NH,dover,66,2,68
+NH,durham,86,4,90
+NH,keene,65,4,69
+NH,manchester,59,2,61
+NH,nashua,50,2,52
+NH,plymouth,42,2,44
+NH,portsmouth,51,4,55
+NH,rochester,37,4,41
+NJ,asbury park,92,4,96
+NJ,elizabeth,69,2,71
+NC,raleigh,51,13,64
+NC,wilmington,29,0,29
+NC,winston-salem,45,9,54
+ND,bismarck,63,0,63
+ND,fargo,72,13,85
+ND,grand forks,78,0,78
+ND,jamestown,37,0,37
+ND,mandan,42,0,42
+ND,minot,47,0,47
+ND,west fargo,44,0,44
+OH,akron,92,7,99
+OH,cincinnati,96,14,100
+OH,cleveland,94,9,100
+OH,columbus,98,9,100
+OH,dayton,97,4,100
+OH,dublin,44,0,44
+OH,lakewood,83,4,87
+OH,toledo,89,9,98
+OK,broken arrow,0,0,0
+OK,edmond,26,0,26
+OK,lawton,17,0,17
+OK,moore,0,0,0
+OK,norman,92,0,92
+OK,oklahoma city,54,3,57
+OK,stillwater,26,0,26
+OK,tulsa,68,10,78
+OR,ashland,49,6,55
+OR,bend,56,2,58
+OR,corvallis,62,2,64
+OR,eugene,98,5,100
+OR,gresham,66,4,70
+OR,hillsboro,54,4,58
+OR,portland,98,10,100
+OR,salem,88,2,90
+TN,chattanooga,45,0,45
+TN,clarksville,17,0,17
+TN,franklin,19,0,19
+TN,johnson city,12,0,12
+TN,knoxville,53,7,60
+TN,memphis,45,3,48
+TN,murfreesboro,12,0,12
+TN,nashville,64,14,78
+TX,amarillo,19,2,21
+TX,arlington,55,8,63
+TX,austin,100,15,100
+TX,brownsville,34,0,34
+TX,college station,12,0,12
+TX,corpus christi,46,2,48
+TX,dallas,89,12,100
+TX,denton,59,4,63
+TX,el paso,48,5,53
+TX,fort worth,91,9,100
+TX,garland,12,2,14
+TX,grand prairie,27,0,27
+TX,houston,63,13,76
+TX,irving,36,0,36
+TX,killeen,19,0,19
+TX,laredo,0,0,0
+TX,lubbock,26,0,26
+TX,mcallen,7,0,7
+TX,mckinney,26,0,26
+TX,mesquite,29,0,29
+TX,pasadena,0,2,2
+TX,plano,68,1,69
+TX,round rock,12,0,12
+TX,san antonio,83,18,100
+TX,waco,32,2,34
+UT,logan,46,2,48
+UT,ogden city,54,4,58
+UT,orem,20,2,22
+WV,charles town,45,0,45
+WV,charleston,88,4,92
+WV,huntington,98,6,100
+WV,lewisburg,43,2,45
+WV,morgantown,71,6,77
+WV,parkersburg,13,0,13
+WV,wheeling,57,2,59
+WI,appleton,70,4,74
+WI,green bay,60,0,60
+WI,kenosha,37,2,39
+WI,madison,100,18,100
+WI,milwaukee,98,5,100
+WI,oshkosh,61,0,61
+WI,racine,80,6,86
+WY,casper,11,0,11
+WY,cheyenne,16,0,16
+WY,gillette,22,0,22
+WY,jackson,62,0,62
+WY,laramie,69,3,72
+WY,rock springs,0,0,0
+WY,sheridan,12,0,12
+KS,emporia,63,0,63
+KS,hutchinson,61,0,61
+KS,kansas city,64,4,68
+KS,lawrence,92,6,98
+KS,manhattan,81,0,81
+KS,olathe,68,3,71
+KS,overland park,88,5,93
+KS,topeka,77,3,80
+KS,wichita,59,0,59
+KY,berea,35,0,35
+KY,bowling green,20,0,20
+KY,covington,89,7,96
+KY,frankfort,66,0,66
+KY,lexington,86,9,95
+KY,louisville,96,7,100
+KY,morehead,55,0,55
+KY,owensboro,18,0,18
+LA,alexandria,39,4,43
+LA,baton rouge,44,6,50
+LA,lafayette,14,0,14
+LA,lake charles,12,0,12
+LA,metairie (jefferson parish),26,0,26
+LA,monroe,12,0,12
+LA,new orleans,98,8,100
+LA,shreveport,77,0,77
+MI,lansing,84,2,86
+MI,pleasant ridge,55,0,55
+MI,sterling heights,39,0,39
+MI,traverse city,82,2,84
+MI,warren,16,0,16
+MN,bloomington,77,0,77
+MN,duluth,82,8,90
+MN,eden prairie,51,0,51
+MN,minneapolis,98,4,100
+MN,minnetonka,43,0,43
+MN,rochester,60,4,64
+MN,saint cloud,48,0,48
+MN,saint paul,99,5,100
+MS,bay st. louis,3,0,3
+MS,biloxi,30,0,30
+MS,gulfport,13,0,13
+MS,hattiesburg,35,3,38
+MS,jackson,80,0,80
+MS,ocean springs,4,0,4
+MS,oxford,17,0,17
+MS,southaven,0,0,0
+MS,starkville,16,0,16
+MO,cape girardeau,0,0,0
+MO,columbia,99,9,100
+MO,independence,18,0,18
+MO,jefferson city,57,0,57
+MO,kansas city,85,9,94
+MO,springfield,45,2,47
+MO,st. charles,49,0,49
+MO,st. louis,98,10,100
+MT,billings,20,0,20
+MT,bozeman,75,3,78
+MT,butte-silver bow,36,0,36
+MT,great falls,6,0,6
+NJ,hoboken,91,12,100
+NJ,jersey city,98,5,100
+NJ,lambertville,91,7,98
+NJ,montclair,71,7,78
+NJ,new brunswick,65,2,67
+NJ,newark,59,2,61
+NJ,ocean grove,82,7,89
+NJ,paterson,60,2,62
+NJ,princeton,96,9,100
+NJ,trenton,87,8,95
+NM,albuquerque,78,13,91
+NM,eldorado at santa fe,42,4,46
+NM,farmington,38,4,42
+NM,gallup,33,4,37
+NM,las cruces,47,9,56
+NM,rio rancho,40,4,44
+NM,roswell,40,4,44
+NM,santa fe,56,9,65
+NY,albany,98,13,100
+NY,brookhaven,57,2,59
+NY,buffalo,85,6,91
+NY,ithaca,93,5,98
+NY,new york,95,17,100
+NY,northwest harbor,40,2,42
+NY,rochester,93,9,100
+NY,syracuse,65,7,72
+NY,white plains,92,4,96
+NY,yonkers,97,4,100
+NC,carrboro,64,12,76
+NC,cary,0,0,0
+NC,chapel hill,68,18,86
+NC,charlotte,57,5,62
+NC,durham,55,10,65
+NC,fayetteville,37,2,39
+NC,greensboro,64,15,79
+PA,allentown,98,8,100
+PA,carlisle,86,0,86
+PA,erie,78,2,80
+PA,harrisburg,66,3,69
+PA,new hope,86,3,89
+PA,philadelphia,98,14,100
+PA,pittsburgh,100,11,100
+PA,reading,89,2,91
+PA,state college,94,8,100
+PA,wilkes-barre,86,4,90
+RI,cranston,55,2,57
+RI,east providence,62,2,64
+RI,kingston (south kingstown),54,2,56
+RI,narragansett,48,2,50
+RI,newport,55,5,60
+RI,pawtucket,60,2,62
+RI,providence,100,6,100
+RI,warwick,61,4,65
+SC,charleston,73,8,81
+SC,clemson,0,0,0
+SC,columbia,60,0,60
+SC,greenville,33,0,33
+SC,mount pleasant,32,0,32
+SC,myrtle beach,50,2,52
+SC,north charleston,38,2,40
+SC,rock hill,17,0,17
+SD,aberdeen,12,0,12
+SD,brookings,98,4,100
+SD,mitchell,0,0,0
+SD,pierre,0,0,0
+SD,rapid city,19,0,19
+SD,sioux falls,60,2,62
+SD,spearfish,19,0,19
+SD,vermillion,41,2,43
+SD,watertown,29,0,29
+UT,park city,35,2,37
+UT,provo,50,2,52
+UT,salt lake city,70,5,75
+UT,west jordan,34,2,36
+UT,west valley city,46,2,48
+VT,barre,28,4,32
+VT,brattleboro,54,4,58
+VT,burlington,91,7,98
+VT,castleton,42,4,46
+VT,essex,54,4,58
+VT,montpelier,46,6,52
+VT,rutland,55,4,59
+VT,south burlington,55,4,59
+VT,winooski,56,4,60
+VA,alexandria,100,8,100
+VA,arlington county,94,16,100
+VA,charlottesville,84,5,89
+VA,chesapeake,59,2,61
+VA,fairfax county,77,11,88
+VA,hampton,72,6,77
+VA,newport news,72,2,74
+VA,norfolk,85,6,91
+VA,richmond,100,5,100
+VA,roanoke,50,4,54
+VA,virginia beach,100,13,100
+WA,bellevue,97,7,100
+WA,bellingham,61,3,64
+WA,kent,75,5,80
+WA,olympia,96,9,100
+WA,pullman,54,2,56
+WA,seattle,98,13,100
+WA,spokane,64,3,67
+WA,tacoma,83,13,96
+WA,vancouver,63,9,72
+WA,vashon (king county),81,13,94
